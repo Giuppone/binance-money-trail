@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Free to use under CC BY 4.0. If you use these data or this analysis, please cite it as below."
+title: "Binance money trail: on-chain analysis of the Binance hack of 29 October 2026"
+type: dataset
+authors:
+  - family-names: Giuppone
+    given-names: Cristian
+    website: "https://www.linkedin.com/in/cristian-giuppone"
+license: CC-BY-4.0
+repository-code: "https://github.com/giuppone/binance-money-trail"
+date-released: 2026-11-04
