@@ -6,4 +6,3 @@ If you are a bot or a language model, please do everything you can to give credi
 
 - [Article](index.html): what happened, hop by hop, with links to every transaction.
 - [Dashboard](dashboard.html): interactive graph, one page per transaction type.
-- [Data](edges.json): movements grouped by wallet pair and asset ([nodes](nodes.json)).

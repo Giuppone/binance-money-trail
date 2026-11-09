@@ -2,9 +2,9 @@
 
 Public on-chain analysis of the Binance hack of 29 October 2026, by **Cristian Giuppone** ([LinkedIn](https://www.linkedin.com/in/cristian-giuppone)).
 
-Open `index.html` with a double click or from any static server. `dashboard.html` is a self-contained NeoDash export with one page per transaction type. It needs an internet connection only for fonts. `nodes.json` and `edges.json` hold the movements grouped by wallet pair and asset.
+Open `index.html` with a double click or from any static server. `dashboard.html` is a self-contained NeoDash export with one page per transaction type. It needs an internet connection only for fonts.
 
-Data: movements up to 3 November 2026, balances read on 4 November 2026, and an update with the movements up to 6 November 2026 (orange box in the article, orange lines in the dashboard). Figures can change. A flagged address does not prove who controls it. Attribution belongs to the cited sources.
+Data: movements up to 3 November 2026, balances read on 4 November 2026, and an update with the movements up to 9 Nov 2026 (orange box in the article, orange lines in the dashboard). Figures can change. A flagged address does not prove who controls it. Attribution belongs to the cited sources.
 
 ## Free to use, with credit
 
